@@ -1,0 +1,22 @@
+div{
+    background-image:linear-gradient(  rgb(173, 3, 173),yellow);
+
+}
+h1{
+    font-family: 'impact';
+    font-size: 70px;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+}
+button{
+    background-color: #cf19a8;
+    color: white;
+    border: none;
+    font-family: 'Arial';
+    font-size: 20px;
+}
+button:hover{
+    background-color: #88465c;
+}

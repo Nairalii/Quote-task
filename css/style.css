@@ -1,4 +1,4 @@
-div{
+.container{
     background-image:linear-gradient(  rgb(173, 3, 173),yellow);
 
 }
@@ -16,6 +16,7 @@ button{
     border: none;
     font-family: 'Arial';
     font-size: 20px;
+    
 }
 button:hover{
     background-color: #88465c;
